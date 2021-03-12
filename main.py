@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import streamlit as st
 
+
 st.write('Trigonmetry Functions')
 function = st.radio('Chose a function to plot', ['Sin', 'Cos'])
 x = []
